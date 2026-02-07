@@ -1,5 +1,5 @@
 
-# ✨ Typefolio – Next.js One-Page Portfolio & Resume Template
+# ✨ Typefolio - Shadcn UI Personal Portfolio Template
 
 **Typefolio** is a **clean, minimal, and production-ready portfolio template** built with **Next.js, Tailwind CSS, and shadcn/ui**.
 
